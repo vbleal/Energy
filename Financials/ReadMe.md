@@ -164,6 +164,10 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 
 <br>
 
+### Modelo de Redes Neuronales
+
+<br>
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Modelo_NN_Financials.png" width="500" height="370">
 
 
   
