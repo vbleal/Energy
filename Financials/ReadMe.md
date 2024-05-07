@@ -197,7 +197,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 ### Evolución Anual del Activo, Pasivo y Patrimonio Neto
 
 
-<img src="" width="350" height="1000">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Balance_Barplot_Hist.png" width="900" height="1000">
 
 
 
@@ -208,7 +208,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 ### Pairplot: Activo, Pasivo, y Cuentas de Resultados
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Pairplot_Balance_Resultados.png" width="900" height="1000">
 
 
 
@@ -224,7 +224,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 #### Distribución del Activo Corriente
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/KDE_AC.png" width="400" height="300">
 
 
 
@@ -234,7 +234,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 #### Distribución del Pasivo Corriente
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/KDE_PC.png" width="400" height="300">
 
 
 
@@ -251,7 +251,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 #### Tendencia de Activos y Pasivos
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Lineplot_Subplots_Activos_Pasivos.png" width="1000" height="400">
 
 
 
@@ -260,7 +260,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 #### Tendencia de Activos y Pasivos en Conjunto
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Lineplot_Activos_Pasivos.png" width="800" height="500">
 
 
 
@@ -277,7 +277,8 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 #### Correlaciones
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Heatmap.png" width="800" height="500">
+
 
 
 
@@ -321,7 +322,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 ### Evolución Anual de las Cuentas de Resultados
 
 
-<img src="" width="350" height="1000">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Resultados_Barplot_Hist.png" width="1000" height="1100">
 
 
 
@@ -334,7 +335,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 ### EBITDA vs Resultado Consolidado
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Scatterplot_EBITDA_Res.png" width="500" height="300">
 
 
 
@@ -349,23 +350,21 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 #### Distribución del EBITDA
 
 <br>
-<img src="" width="500" height="300">
 
-<br>
-
-#### Distribución Logarítmica del EBITDA
-
-<br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/KDE_EBITDA.png" width="500" height="300">
 
 
 
 <br>
+
 
 #### Distribución del Resultado antes de Impuestos
 
 <br>
-<img src="" width="500" height="300">
+
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/KDE_Resultados.png" width="500" height="300">
+
+
 
 
 
@@ -382,10 +381,10 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 <br>
 
 
-### 🔮 Proyecciones del Balance
+### 🔮 Proyecciones del Balance con Redes Neuronales
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Pred_NN_Balance.png" width="800" height="450">
 
 
 
@@ -394,12 +393,37 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 <br>
 
 
-### 🔮 Proyecciones de Cuentas de Resultados
+### 🔮 Proyecciones de Cuentas de Resultados con Redes Neuronales
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Pred_NN_Res.png" width="800" height="450">
 
 
+
+
+
+
+
+<br>
+
+
+### 🔮 Proyecciones del Balance con Regresión Múltiple
+
+<br>
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Pred_RM_Balance.png" width="800" height="450">
+
+
+
+
+
+
+<br>
+
+
+### 🔮 Proyecciones de Cuentas de Resultados con Regresión Múltiple
+
+<br>
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Pred_RM_Res.png" width="800" height="450">
 
 
 
