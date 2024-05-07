@@ -6,7 +6,7 @@ Renewable Energy, Energía Renovables, Financial Data
 
 <img src="https://github.com/vbleal/Energy/blob/main/zImag/Ban_Energy.gif" width="1000" height="300">
 
-<sub>Créditos: Imagen Generada con IA.</sub>
+<sub>Créditos: Basado en Diseño P. Sudibyo.</sub>
 
 
 <br>
