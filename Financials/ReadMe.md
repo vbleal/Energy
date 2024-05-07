@@ -463,6 +463,10 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 
 <br>
 
+*  [Reporte PDF con Código](https://github.com/vbleal/Energy/blob/main/Financials/Doc/Energ%C3%ADas%20Renovables%20-%20An%C3%A1lisis%20Financiero%20Empresa.pdf)
+
+<br>
+
 
 
 
