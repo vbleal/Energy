@@ -62,11 +62,11 @@ Lo anterior es aplicable a los 3 aspectos mencionados en la **'Descripción'**. 
 
 <br>   
 
-📂 [Repositorio: ]()
+📂 [Repositorio: Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Financials)
 
 <br>  
 
-🔮 [Modelo ]()
+
 
 
 </details>
@@ -86,11 +86,11 @@ Lo anterior es aplicable a los 3 aspectos mencionados en la **'Descripción'**. 
 
 <br>   
 
-📂 [Repositorio: ]()
+📂 [Repositorio: Análisis del Índice Bursátil](https://github.com/vbleal/Energy/tree/main/Index)
 
 <br> 
 
-🐍 [Modelo ]()
+
 
 
 
@@ -112,11 +112,11 @@ Lo anterior es aplicable a los 3 aspectos mencionados en la **'Descripción'**. 
 
 <br>   
 
-📂 [Repositorio: ]()
+📂 [Repositorio: Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Power)
 
 <br>
 
-🔮 [Modelo ]()
+
 
 
 
