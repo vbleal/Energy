@@ -4,7 +4,7 @@ Renewable Energy, Energía Renovables, Financial Data
 
 
 
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/zImag/Ban_Energy.gif" width="1000" height="300">
 
 <sub>Créditos: Imagen Generada con IA.</sub>
 
