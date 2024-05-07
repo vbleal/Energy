@@ -5,9 +5,11 @@ Creado por:
 *  **V. D. Betancourt**
 
 
-<img src="" width="1000" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/zImag/Ban_Energy_Power.gif" width="1000" height="300">
 
-<sub>.</sub>
+<sub>Créditos: Basado en Diseño Visula Co.</sub>
+
+
 
 
 
