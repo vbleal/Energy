@@ -36,7 +36,7 @@ Con respecto al **Índice Bursátil**, los datos empleados fueron extraídos des
 
 ## 🎯 Objetivo
 
-El objetivo de este proyecto consiste utilizar la información disponible de la Empresa para:
+El objetivo de este proyecto consiste en utilizar la información disponible de la Empresa para:
 
 * 📊 Generar un **Análisis Exploratorio de Datos (EDA)**
   
