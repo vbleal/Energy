@@ -62,7 +62,9 @@ Lo anterior es aplicable a los 3 aspectos mencionados en la **'Descripción'**. 
 
 <br>   
 
-📂 [Repositorio: Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Financials)
+La descripción, el modelo, los resultados, y el código generado, se encuentran en el siguiente repositorio:
+
+* 📂 [Repositorio: Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Financials)
 
 <br>  
 
@@ -86,7 +88,9 @@ Lo anterior es aplicable a los 3 aspectos mencionados en la **'Descripción'**. 
 
 <br>   
 
-📂 [Repositorio: Análisis del Índice Bursátil](https://github.com/vbleal/Energy/tree/main/Index)
+La descripción, el modelo, los resultados, y el código generado, se encuentran en el siguiente repositorio:
+
+* 📂 [Repositorio: Análisis del Índice Bursátil](https://github.com/vbleal/Energy/tree/main/Index)
 
 <br> 
 
@@ -112,7 +116,9 @@ Lo anterior es aplicable a los 3 aspectos mencionados en la **'Descripción'**. 
 
 <br>   
 
-📂 [Repositorio: Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Power)
+La descripción, el modelo, los resultados, y el código generado, se encuentran en el siguiente repositorio:
+
+* 📂 [Repositorio: Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Power)
 
 <br>
 
