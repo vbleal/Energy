@@ -292,7 +292,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 #### Correlaciones Positivas
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Financials_Corr_Positivas.png" width="500" height="300">
 
 
 
@@ -302,7 +302,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 #### Correlaciones Negativas
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Financials/Imag/Financials_Corr_Negativas.png" width="400" height="300">
 
 
 
