@@ -206,7 +206,7 @@ Los datos empleados del Índice Bursátil de la Empresa se extraen desde la plat
 <br>
 <br>
 
-### Boxplot 
+### Violinplot 
 
 
 <img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_violinplot.png" width="700" height="450">
