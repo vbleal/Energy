@@ -323,6 +323,7 @@ de que se obtenga una **pérdida no mayor que €5,426.28** en el próximo día.
 
 
 <br>
+<br>
 
 
 ### 🔮 Predicciones Futuras
@@ -331,6 +332,8 @@ de que se obtenga una **pérdida no mayor que €5,426.28** en el próximo día.
 <img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_model_nn_pred_futuras.png" width="1000" height="500">
 
 <br>
+<br>
+
 <img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_model_nn_hist_pred_futuras.png" width="1000" height="500">
 
 
