@@ -112,7 +112,7 @@ Creado por:
 
 ---
 
-## Modelo
+## 🧮 Modelo
 
 
 <details>
@@ -146,25 +146,51 @@ Creado por:
 
 
 <details>
-<summary>Análisis EDA </summary>
+<summary>ANÁLISIS EXPLORATORIO DE DATOS (EDA) </summary>
 
 <br>
 
-### Evolución Anual 
+### Evolución del Precio ('Close') del Índice
 
 
-<img src="" width="350" height="1000">
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_evolution_close.png" width="1000" height="500">
 
+
+
+<br>
+<br>
+
+
+### Velas Japonesas 
+
+
+#### Con Período Semanal
+
+<br>
+
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_candle_weekly.png" width="500" height="400">
 
 
 <br>
 <br>
 
-
-### Pairplot: 
+#### Últimos Meses
 
 <br>
-<img src="" width="500" height="300">
+
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_candle_last_months.png" width="500" height="400">
+
+
+<br>
+<br>
+
+#### Gráfico de Línea
+
+<br>
+
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_candle_line.png" width="500" height="400">
+
+
 
 
 
@@ -270,7 +296,7 @@ Creado por:
 
 
 <details>
-<summary>Análisis de Riesgo de Mercado </summary>
+<summary>RIESGO DE MERCADO </summary>
 
 <br>
 
@@ -329,11 +355,11 @@ Creado por:
 </details>
 
 <br>
-
+<br>
 
 
 <details>
-<summary>Proyecciones </summary>
+<summary>PROYECCIONES </summary>
 
 <br>
 
@@ -387,7 +413,11 @@ Creado por:
 <br>
 
 <details>
-<summary>Reporte con Código </summary>
+<summary>Reporte </summary>
+
+<br>
+
+*  [Reporte PDF con Código](https://github.com/vbleal/Energy/blob/main/Index/Doc/Energ%C3%ADas%20Renovables%20-%20%C3%8Dndice.pdf)
 
 <br>
 
