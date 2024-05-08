@@ -156,7 +156,7 @@ El dataset **`'fin_data_energy.xlsx'`** consta de **17 campos** que se describen
 
 ---
 
-## Modelo
+## 🧮 Modelo
 
 
 <details>
