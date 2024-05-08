@@ -28,7 +28,7 @@ Creado por:
 
 ### 📄 Descripción
 
-
+El presente proyecto pertenece al ámbito de las **Energías Renovables**. En particular, está enfocado en datos del **Índice Bursátil** de una **Empresa**.
 
 
 
@@ -36,7 +36,13 @@ Creado por:
 
 ### 🎯 Objetivo
 
+El presente proyecto tiene como finalidad estudiar la **Índice Bursátil de la Empresa**, por medio de:
 
+* Generar un *Análisis Exploratorio de Datos*, incluyendo diversas visualizaciones diseñadas en Seaborn.
+
+* Generar un *Análisis de Riesgo de Mercado* por medio del cálculo del Value-at-Risk (VaR).
+
+* Generar *Predicciones* con diferentes modelos, tales como: Redes Neuronales y Series Temporales.
 
 
   
@@ -62,34 +68,9 @@ Creado por:
 
 <br>
 
+Los datos empleados del Índice Bursátil de la Empresa se extraen desde la plataforma de datos llamada **Yahoo Finance**, usando código de Python.
 
 
-
-<br>
-
-### 
-
-
-
-<br>
-
-### 
-
-
-
-
-
-<br>
-
-### 
-
-
-
-
-
-<br>
-
-### 
 
 
 
