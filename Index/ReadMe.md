@@ -120,6 +120,12 @@ Creado por:
 
 <br>
 
+### Modelo de Redes Neuronales para Predicciones Pasadas y Futuras
+
+<br>
+
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_model_nn.png" width="500" height="300">
+
 
 
   
@@ -160,6 +166,17 @@ Creado por:
 <br>
 <br>
 
+### Estadística Descriptiva del Precio ('Close') del Índice por Año
+
+
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_yearly_close_stat.png" width="600" height="350">
+
+
+
+
+<br>
+<br>
+
 
 ### Velas Japonesas 
 
@@ -194,31 +211,13 @@ Creado por:
 
 
 
-
 <br>
 <br>
 
-### Gráficos KDE
+### Boxplot 
 
 
-<br>
-
-#### Distribución 
-
-<br>
-<img src="" width="500" height="300">
-
-
-
-
-<br>
-
-#### Distribución 
-
-<br>
-<img src="" width="500" height="300">
-
-
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_boxplot.png" width="700" height="450">
 
 
 
@@ -226,60 +225,11 @@ Creado por:
 <br>
 <br>
 
-### Lineplots
-
-<br>
-
-#### Tendencia 
-
-<br>
-<img src="" width="500" height="300">
+### Boxplot 
 
 
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_violinplot.png" width="700" height="450">
 
-<br>
-
-#### Tendencia 
-
-<br>
-<img src="" width="500" height="300">
-
-
-
-
-
-
-<br>
-<br>
-
-### Heatmap
-
-<br>
-
-#### Correlaciones
-
-<br>
-<img src="" width="500" height="300">
-
-
-
-
-<br>
-
-#### Correlaciones Positivas
-
-<br>
-<img src="" width="500" height="300">
-
-
-
-
-<br>
-
-#### Correlaciones Negativas
-
-<br>
-<img src="" width="500" height="300">
 
 
 
@@ -292,6 +242,7 @@ Creado por:
 
 
 
+<br>
 <br>
 
 
@@ -300,10 +251,31 @@ Creado por:
 
 <br>
 
-### Evolución 
+### VaR por Metodología Histórica (VaR Hist)
 
+<br>
 
-<img src="" width="350" height="1000">
+El cálculo del **VaR por Metodología Histórica** (abreviado **VaR Hist**) utiliza datos históricos para simular posibles pérdidas futuras y determinar el umbral de pérdida correspondiente al nivel de confianza seleccionado.
+
+<br>
+
+**Resultado**: 
+
+* El VaR Histórico al 95.0% de nivel de confianza obtenido para el Índice fue: **-4.03%**.
+
+* Esto equivale a una **pérdida potencial** de **€4,026.84** por cada €100,000 invertidos.
+
+<br>
+
+**Interpretación**: 
+
+* Bajo condiciones normales de mercado, 
+existe un **95% de probabilidad** de que 
+se obtenga una **pérdida no mayor que €4,026.84**. 
+Esto es el **4.03%** del total invertido (€100,000). 
+
+* Por lo tanto, existe un **5% de probabilidad** 
+de que, en un día, se consiga una **pérdida mayor que €4,026.84**.
 
 
 
@@ -313,46 +285,42 @@ Creado por:
 <br>
 <br>
 
-### .
-
-<br>
-<img src="" width="500" height="300">
-
-
-
-
-<br>
-<br>
-
-
-### Gráficos KDE
-
-
-#### Distribución .
-
-<br>
-<img src="" width="500" height="300">
+### VaR por Simulación Monte Carlo (VaR SMC)
 
 <br>
 
-#### Distribución .
+El cálculo del Value-at-Risk (VaR) usando **Simulación Monte Carlo** (abreviado **VaR SMC**) es un método más complejo que la metodología histórica, pero ofrece la ventaja de poder modelar escenarios futuros basados en estimaciones estadísticas.
 
-<br>
-<img src="" width="500" height="300">
-
+Este enfoque utiliza la simulación aleatoria para generar posibles resultados futuros basados en los retornos históricos, permitiendo calcular el VaR bajo diversas condiciones de mercado.
 
 
 <br>
 
-#### Distribución .
+**Resultado**: 
+
+* El VaR por Simulación Monte Carlo al 95.0% de nivel de confianza obtenido para el Índice fue: **€5,426.28**
 
 <br>
-<img src="" width="500" height="300">
+
+**Interpretación**: 
+
+* Bajo condiciones normales de mercado, existe un **95% de probabilidad** 
+de que se obtenga una **pérdida no mayor que €5,426.28** en el próximo día.
+
+
 
 
 
 
 </details>
+
+
+
+
+
+
+
+
 
 <br>
 <br>
@@ -367,7 +335,7 @@ Creado por:
 ### 🔮 Predicciones Pasadas
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_model_nn_hist_pred_pasadas.png" width="1000" height="500">
 
 
 
@@ -379,7 +347,10 @@ Creado por:
 ### 🔮 Predicciones Futuras
 
 <br>
-<img src="" width="500" height="300">
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_model_nn_pred_futuras.png" width="1000" height="500">
+
+<br>
+<img src="https://github.com/vbleal/Energy/blob/main/Index/Imag/adxmc_model_nn_hist_pred_futuras.png" width="1000" height="500">
 
 
 
@@ -417,7 +388,7 @@ Creado por:
 
 <br>
 
-*  [Reporte PDF con Código](https://github.com/vbleal/Energy/blob/main/Index/Doc/Energ%C3%ADas%20Renovables%20-%20%C3%8Dndice.pdf)
+*  [Reporte PDF con Código](https://github.com/vbleal/Energy/blob/main/Index/Doc/Energ%C3%ADas%20Renovables%20-%20Index.pdf)
 
 <br>
 
