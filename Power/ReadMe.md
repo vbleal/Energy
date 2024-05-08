@@ -353,11 +353,11 @@ Aunque una correlación de **`0.78`** es alta, *no es perfecta*. Esto significa 
 <br>
 
 <details>
-<summary>Reporte con Código </summary>
+<summary>Reporte </summary>
 
 <br>
 
-*  [Reporte PDF con Código]()
+*  [Reporte PDF con Código](https://github.com/vbleal/Energy/blob/main/Power/Doc/Energ%C3%ADas%20Renovables%20-%20Potencia%20y%20Producci%C3%B3n.pdf)
 
 <br>
 
